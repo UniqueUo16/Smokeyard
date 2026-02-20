@@ -70,7 +70,7 @@ export default function Hero() {
           
           <div className="relative w-full max-w-[380px] md:max-w-[480px]">
             <img 
-              src="/imgs/Hero1.png" 
+              src="/imgs/hero1.png" 
               alt="Main Dish"
               className="w-full sm:h-auto h-70 w-70  object-contain drop-shadow-2xl scale-100 hover:scale-105 transition-transform duration-500"
             />
