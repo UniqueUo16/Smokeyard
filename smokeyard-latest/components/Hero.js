@@ -81,7 +81,7 @@ export default function Hero() {
                 <Star size={16} className="fill-orange-500 text-orange-500" />
               </div>
               <div>
-                <p className="font-bold text-xs text-gray-900">4.9</p>
+                <p className="font-bold text-xs text-gray-900 mt-11">4.9</p>
                 <p className="text-[9px] text-gray-400 font-bold uppercase">Popular</p>
               </div>
             </div>
