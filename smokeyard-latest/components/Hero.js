@@ -24,7 +24,7 @@ export default function Hero() {
   return (
    <div className="relative min-h-[90vh] w-full overflow-hidden">
 
-    <div className="relative w-full bg- px-4 py-8 md:py-16 overflow-hidden">
+    <div className="relative w-full bg-gray-100 px-4 py-8 md:py-16 overflow-hidden">
       <div className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
         
         {/* LEFT CONTENT: TIGHT & ACTION-ORIENTED */}

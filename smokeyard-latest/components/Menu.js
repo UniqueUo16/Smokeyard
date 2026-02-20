@@ -22,7 +22,7 @@ export default function CompactFoodGrid() {
   const [cartCount, setCartCount] = useState(0);
 
   return (
-    <div className={`min-h-screen  ${sleekFont.className} text-slate-900 pb-32`}>
+    <div className={`min-h-screen bg-gray-100 ${sleekFont.className} text-slate-900 pb-32`}>
       
       {/* PACKED HEADER (Like Chowdeck/Jumia) */}
       <div className="bg-white px-4 pt-6 pb-4 sticky top-0 z-40 shadow-sm">
